@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proceedings of the French clergy against the Court of Rome, or, Acts of the assembly of my lords the archbishops and bishops that were in Paris held by the kings order in the arch-bishoprick, on Thursday the thirtieth of the month of September, 1688. S.N. / translated from the French.</title>
+            <author>Catholic Church. Assemblée générale du clergé de France (1688)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55952</idno>
+            <idno type="STC">Wing P3582</idno>
+            <idno type="STC">ESTC R33961</idno>
+            <idno type="EEBO-CITATION">13639005</idno>
+            <idno type="OCLC">ocm 13639005</idno>
+            <idno type="VID">100877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100877)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1042:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proceedings of the French clergy against the Court of Rome, or, Acts of the assembly of my lords the archbishops and bishops that were in Paris held by the kings order in the arch-bishoprick, on Thursday the thirtieth of the month of September, 1688. S.N. / translated from the French.</title>
+                  <author>Catholic Church. Assemblée générale du clergé de France (1688)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabazon Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A circulary letter from the agents general of the clergy of France ..." signed: The Abbot of Villars and the Abbot Philypeaux.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Clergy --  Correspondence.</term>
+               <term>France --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100877:1"/>
+            <!-- PDF PAGE 121 -->
+            <pb facs="tcp:100877:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 121 -->
+            <p>PROCEEDINGS Of the <hi>French</hi> CLERGY againſt the Court of ROME, OR, Acts of the Aſſembly of My Lords the Arch-Biſhops and Biſhops that were at <hi>Paris,</hi> held by the Kings Order in the Arch-Biſhoprick, on Thurſday the Thirtieth of the Month of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> 1688. <hi>S. N.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated from the French.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>Brabazon Aylmer</hi> at the Three <hi>Pigeons</hi> over-againſt the <hi>Royal Exchange</hi> in <hi>Corn-Hill,</hi> 1688.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:100877:2"/>
+            <!-- PDF PAGE 122 -->
+            <pb facs="tcp:100877:2"/>
+            <!-- PDF PAGE 122 -->
+            <head>A Circulary Letter from the Agents General of the Clergy of <hi>France,</hi> Written by the Kings Order to my Lords the Arch-Biſhops and Biſhops of the Realm.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HAving received from My Lord Arch Biſhop of <hi>Paris,</hi> the Kings Orders for the Aſſembling in the Arch-Biſhoprick My Lords the Arch-Biſhops and Bi<g ref="char:EOLhyphen"/>ſhops that were in <hi>Paris;</hi> We have accordingly ſo done in the uſual manner. You will underſtand, My Lord, by the Copy of the Verbal proofs which we ſend you, all that has paſſed in the Aſſembly you will therein ſee the Kings Intenti<g ref="char:EOLhyphen"/>ons, and His Majeſties carriage ſo full of Eſteem and diſtin<g ref="char:EOLhyphen"/>ction towards the Clergy of <hi>France.</hi> He did not content him<g ref="char:EOLhyphen"/>ſelf with imparting the preſent Affairs to the Prelats now about his perſon, His Majeſty would needs honour with the ſame Grace all thoſe of His Kingdom in particular, Ordering us to give you an Account of all that has paſſed, and accord<g ref="char:EOLhyphen"/>ingly to ſend you the Acts of them. It is with great joy, My Lord, that we acquit our ſelves of this duty, and lay hold on this Occaſion to aſſure you, that we are with profound Reſpect,</p>
+            <closer>
+               <salute>My Lord, </salute> 
+               <signed>
+                  <hi>Your Moſt Humble and Moſt Obedi<g ref="char:EOLhyphen"/>ent Servants, the Agents General of the Clergy of</hi> France. <hi>The Abbot</hi> de VILLARS. <hi>The Abbot</hi> PHILYPEA<g ref="char:V">Ʋ</g>X.</signed>
+               <dateline>
+                  <hi>Paris</hi> 
+                  <date>this <hi>2d. of</hi> October, <hi>1688.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:100877:3"/>
+            <!-- PDF PAGE 123 -->
+            <pb n="5" facs="tcp:100877:3"/>
+            <!-- PDF PAGE 123 -->
+            <head>Proceedings of the <hi>French</hi> Clergy againſt the Court of <hi>Rome,</hi> or, Acts of the Aſſembly of My Lords the Arch-Biſhops and Biſhops that were at <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> held by the Kings Order in the Arch-Biſhoprick; on Thurſday the 30th. of the Month of <hi>Septemb.</hi> 1688.</head>
+            <p>IN the Year One Thouſand Six Hundred Eighty Eight, on the 30th. and laſt day of <hi>September,</hi> My Lords the Arch-Biſhops and Biſhops that were at <hi>Paris</hi> on Concerns of their Dioceſſes, having by the Kings Order been Convened in the uſual Manner, and according to the Regulations of the Clergy, they repaired about 10 a Clock in the Morning to the Palace of the Moſt Illuſtrious and Moſt Reverend Lord Meſſire <hi>Francis de Harlay</hi> Arch-Biſhop of <hi>Paris,</hi> Duke and Peer of <hi>France,</hi> Commander of His Majeſties Orders, Provoſt of <hi>Surbonne,</hi> Superiour of the Houſe of <hi>Navarre,</hi> the Moſt Ancient of the Prelats in this City. The Moſt Illuſtrious and Moſt Reverend Lords Meſſires <hi>Charles Munrice le Tellier,</hi> Arch-Biſhop Duke of <hi>Reims,</hi> Firſt Peer of <hi>France,</hi> Legat born of the Holy Apoſtolical
+<pb n="6" facs="tcp:100877:4"/>
+               <!-- PDF PAGE 124 -->See, Primate of <hi>Belgick Gaul, Charles le Goux de la Berchere</hi> Biſhop of <hi>Lavaur,</hi> Nominated by the King to the Arch-Biſhoprick of <hi>Alby, Daniel de Coſnac</hi> Biſhop of <hi>Valence</hi> and <hi>Die,</hi> Nominated by His Majeſty to the Arch-Biſhoprick of <hi>Aix, Denis Sanguin</hi> Biſhop of <hi>Senlis, Touſ<g ref="char:EOLhyphen"/>ſain de Forbin de Janſon</hi> Biſhop Count de <hi>Beauvais,</hi> Peer of <hi>France, Francis de Clermont de Tonnere</hi> Biſhop Count de <hi>Noyon,</hi> Peer of <hi>France, Matthew Thoreau</hi> Biſhop of <hi>Dol, Francis Neſmond</hi> Biſhop of <hi>Bayeux. Anthony Francis de Berthier</hi> Biſhop of <hi>Rieux. James Seguier</hi> Biſhop of <hi>Niſmes, Francis Battailler</hi> Biſhop of <hi>Bethlehem, Lewis Anne Aubert de Velleſerin</hi> Biſhop and Lord of <hi>Senez, Paul Philip de Chaumont</hi> Biſhop of <hi>Aix. Peter du Laurens</hi> Biſhop of <hi>Bellay, Peter de la Broue</hi> Biſhop of <hi>Mirepoix, Humbert Ancelin</hi> Biſhop of <hi>Tulles. Jean Baptiſt d' Eſtrees</hi> Biſhop Duke of <hi>Laon,</hi> Peer of <hi>France, Lewis Marcel de Coetlogon</hi> Biſhop of S. <hi>Brieux. Lewis Joſeph Adheymar de Monteil de Grignan</hi> Biſhop of <hi>Carcaſſonne, Charles Benigne Herve,</hi> Nominated to the Biſhoprick of <hi>Gap James de Maretz,</hi> Nominated to the Biſhoprick of <hi>Riez, Charles de Villeneuve de Vence</hi> Nominated to the Biſhoprick of <hi>Glandeve, Victor Augu<g ref="char:EOLhyphen"/>ſtin de Mailly,</hi> Nominated to the Biſhoprick of <hi>Lavaur, Henry de Neſmond,</hi> Nominated to the Biſhoprick of <hi>Mon<g ref="char:EOLhyphen"/>tauban,</hi> And <hi>Peter Francis de Beauvon</hi> Nominated to the Biſhoprick of <hi>Sarlat.</hi>
+            </p>
+            <p>All having in the uſual manner taken their Places ac<g ref="char:EOLhyphen"/>cording to their Ranks, the Preſident, My Lord Arch-Biſhop of <hi>Paris,</hi> did, as is Cuſtomary, offer up the Pray<g ref="char:EOLhyphen"/>er of the Holy Ghoſt; after which the Abbot de <hi>Villars,</hi> Agent; being at the Bar, ſaid.</p>
+            <pb n="7" facs="tcp:100877:4"/>
+            <!-- PDF PAGE 124 -->
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>My Lords,</salute>
+                        </opener>
+                        <p>Having received from my Lord Arch-Biſhop of <hi>Paris,</hi> the Kings Orders for the Convening you in the Arch-Biſhoprick: We have accordingly performed them in the wonted manner with all poſſible diligence. The ſame Orders, <hi>My Lords,</hi> Engage us to give your Lord<g ref="char:EOLhyphen"/>ſhips an Account of two Acts, which His Majeſty out of the ſingular eſteem He has for your Perſons, is willing to impart to you. The firſt is a Letter which His Majeſty Writ to my Lord Cardinal <hi>d' Eſtrees</hi> on the 6th. of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1688. on occaſion of the preſent poſture of Affairs. And the ſecond is an Act of Appeal put in to the future General Council, by the Attorney General of the Parliament on the Twenty ſeventh of <hi>September,</hi> in the ſame Year; which Act His Majeſty thought not convenient to make publick till after having Communi<g ref="char:EOLhyphen"/>cated it to you. If your Lordſhips think it fitting, be pleaſed to allow me the Honour of Reading to you both thoſe Acts.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After which my Lord Arch-Biſhop of <hi>Paris</hi> order<g ref="char:EOLhyphen"/>ed the Abbot <hi>De Villars</hi> to read the Acts newly men<g ref="char:EOLhyphen"/>tioned which he accordingly performed; and that being over, My Lord Arch-Biſhop of <hi>Paris</hi> ſpoke in the manner following,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>My Lords,</salute>
+                        </opener>
+                        <p>The King Commanded me to ſignifie to your Agents that you ſhould meet in this Place, that ſo in Quality of Ancient I might acquaint you with
+<pb n="8" facs="tcp:100877:5"/>
+                           <!-- PDF PAGE 125 -->the Confidence His Majeſty is pleas'd to Honour you withal in the preſent Juncture of Affairs. You may have underſtood by the Letter His Majeſty writ to the Cardinal D' <hi>Estree</hi>'s the poſture of Affairs at this time, and the Juſt and Reaſonable Diffidence His Majeſty entertains of the Popes Intentions, who could not be prevail'd upon by all the Submiſſions he has paid him, not only as Eldeſt Son of the Church, which reſpects the Common Father of Chriſtians, but likewiſe as a Prince endowed with an Exemplary Piety, ſo as to omit no manner of means for the gain<g ref="char:EOLhyphen"/>ing His Affection.</p>
+                        <p>Nevertheleſs, My Lords, The Kings moſt Faithful Servants are now perſwaded that Our Holy Father has worn His Majeſty out of all Patience, and has left no Room to queſtion his Entire Partiality for and Favour to the moſt declared Enemies of His Crown.</p>
+                        <p>This induc'd him to ſend His Orders to the Cardi<g ref="char:EOLhyphen"/>nal D' <hi>Eſtree</hi>'s at <hi>Rome,</hi> and here to permit the At<g ref="char:EOLhyphen"/>torney General of the Parliament to put in an Appeal to the Future General Council of the Grievances ſuffer<g ref="char:EOLhyphen"/>ed or to be ſuffered in the time of this Popedome, and the more ſince the Pope's late Conduct affords Reaſonable Matter for Apprehenſion to that Worthy Magiſtrate that Our Holy Father the Pope will con<g ref="char:EOLhyphen"/>tinue the ſame Meaſures in the Proceſs of theſe Affairs.</p>
+                        <pb n="9" facs="tcp:100877:5" rendition="simple:additions"/>
+                        <!-- PDF PAGE 125 -->
+                        <p>And this, My Lords, to the intent that if His Holy<g ref="char:EOLhyphen"/>neſs ſuffered himſelf to be led away by his Prepoſſeſſions ſo far as to Employ the Spiritual Arms of the Church to the Prejudice of His Majeſties Subjects and Domi<g ref="char:EOLhyphen"/>nions, the Attorney General might by this Act put a ſtop to all the Eccleſiaſtical Proceedings of a Pope incenſed againſt <hi>France;</hi> and that the Appeal to the Future General Council, which, according to our Fun<g ref="char:EOLhyphen"/>damental Maximes, is own'd Superiour to all Eccleſi<g ref="char:EOLhyphen"/>aſtical Eſtate and Perſon without Exception, even of that of the Pope, might ſuſpend all the Effects of his Ill-Will, or render them ineffectual.</p>
+                        <p>My Official has given an Act of this Appeal to the Attorney General, who required it at the Tribunal of my Juriſdiction; Where this Magiſtrate did likewiſe demand of him Letters called <hi>Apotres,</hi> for the pro<g ref="char:EOLhyphen"/>ſecuting this Appeal in Time and Place.</p>
+                        <p>The King, My Lords, does not queſtion but that you will with Satisfaction underſtand the Wiſe Pre<g ref="char:EOLhyphen"/>caution of this Eccleſiaſtical Proceeding, which rein<g ref="char:EOLhyphen"/>courages the moſt timorous Conſciences, puts matters into a Regular Courſe; nay, and prevents the Troubles which His Majeſty indeed could otherwiſe diſperſe by the Power and Juſtice of his Armes.</p>
+                        <p>But he expects from your Zeal and Fidelity, that you will in your Dioceſſes employ your Inſtructions and Solicitudes for the making His Subjects underſtand the Prudence and Moderation of His Conduct.</p>
+                        <pb n="10" facs="tcp:100877:6"/>
+                        <!-- PDF PAGE 126 -->
+                        <p>His Majeſty is perſwaded that knowing perfectly as you do, the difference there is between a Diſpute of Religion and a Warre purely Temporal, you will be able to remove the Alarms of the moſt ſcrupulous Perſons, and diſpell the Effects of the Malignity of thoſe that ſhould entertain the worſt Intentions to His Service, and the Quiet of the State.</p>
+                        <p>The King has further Commanded me to give his Orders to your Agents to make His Intentions known to our Abſent Brethren; Who notwithſtanding their diſtance, will by this means partake in the Honour he Vouchſafes us at this time.</p>
+                        <p>Further, His Majeſty does not doubt but that you will employ your Prayers that the Peace may become General to all <hi>Chriſtendom,</hi> and that there may be a good Underſtanding between our Holy Father the Pope and the King, in Order to which ſo many Ad<g ref="char:EOLhyphen"/>vances have been made by His Majeſty.</p>
+                        <p>His Majeſty on his part will omit nothing that is Juſt and Reaſonable for the bringing about this Deſign. And He has reaſon to Hope, that being upheld by his own Valour and your Zeal, God will hear his Vowes, and abundantly bleſs His Intentions and Piety.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After this Diſcourſe, the Company with a Common and Unanimous Voice entreated My Lord Arch-biſhop of <hi>Paris</hi> moſt humbly to thank His Majeſty for the Hon<g ref="char:EOLhyphen"/>our he did them in imparting to them what was done and
+<pb n="11" facs="tcp:100877:6"/>
+               <!-- PDF PAGE 126 -->occurr'd in the important Affairs contained in the Acts which had been newly read, being not able to do bet<g ref="char:EOLhyphen"/>ter at this time than to acknowledge this favour by Vowes, That it would pleaſe God to inſpire the Pope in this Occaſion with Sentiments of Peace by Eulogies of the Kings Piety, by moſt humble Thanks and Ac<g ref="char:EOLhyphen"/>knowledgements, and reſpectful Applauſes on His Ma<g ref="char:EOLhyphen"/>jeſties Wiſe Conduct. Given at <hi>Paris</hi> on the day and year above-mentioned.</p>
+            <list>
+               <item>† <hi>Francis</hi> Arch-biſhop of <hi>Paris</hi> Preſident.</item>
+               <item>† <hi>Charles Maurice</hi> Biſhop, Duke of <hi>Reims.</hi>
+               </item>
+               <item>† <hi>Charles</hi> Biſhop of <hi>Lavaur,</hi> nominated Arch-biſhop of <hi>Alby.</hi>
+               </item>
+               <item>† <hi>Daniel de Coſnac</hi> Biſhop and Count of <hi>Valence &amp; Die,</hi> nominated Biſhop of <hi>Aix.</hi>
+               </item>
+               <item>† <hi>Denis Sanguin</hi> Biſhop of <hi>Senlis.</hi>
+               </item>
+               <item>† <hi>Touſſaint</hi> Biſhop and Count de <hi>Beauvais.</hi>
+               </item>
+               <item>† <hi>Francis</hi> Biſhop of <hi>Bayeux.</hi>
+               </item>
+               <item>† <hi>Francis de Clermont</hi> Biſhop, Count <hi>de Noyon.</hi>
+               </item>
+               <item>† <hi>Antoine Francis</hi> Biſhop of <hi>Rieux.</hi>
+               </item>
+               <item>† <hi>Mathieu</hi> Biſhop of <hi>Dol.</hi>
+               </item>
+               <item>† <hi>Seguier</hi> Biſhop of <hi>Niſmes.</hi>
+               </item>
+               <item>† <hi>Francois</hi> Biſhop of <hi>Bethleem.</hi>
+               </item>
+               <pb n="12" facs="tcp:100877:7"/>
+               <!-- PDF PAGE 127 -->
+               <item>† <hi>Louis Anne</hi> Biſhop of <hi>Senez.</hi>
+               </item>
+               <item>† <hi>Paul Philippe</hi> Biſhop of <hi>Acqs</hi>
+               </item>
+               <item>† <hi>Pierre</hi> Biſhop of <hi>Belley.</hi>
+               </item>
+               <item>† <hi>Pierre</hi> Biſhop of <hi>Mirepoix.</hi>
+               </item>
+               <item>† <hi>Humbert</hi> Biſhop of <hi>Tulles.</hi>
+               </item>
+               <item>† <hi>Jean d' Eſtree's</hi> Biſhop, Duke of <hi>Laon.</hi>
+               </item>
+               <item>† <hi>Louis Marcel d' Coetlogon</hi> Biſhop of St. <hi>Brieux.</hi>
+               </item>
+               <item>† <hi>Louis Joſeph d' Grignan</hi> Biſhop of <hi>Carcaſſonne.</hi>
+               </item>
+               <item>† <hi>Charles Benigne Herve</hi> nominated Biſhop of <hi>Gap:</hi>
+               </item>
+               <item>† <hi>Jacques des Mareſts</hi> nominated Biſhop of <hi>Riez.</hi>
+               </item>
+               <item>† <hi>Charles de Villeneuve de Vence</hi> nominated Biſhop of <hi>Glandeve.</hi>
+               </item>
+               <item>† <hi>Victor Auguſtin</hi> nominated Biſhop of <hi>Lavaur.</hi>
+               </item>
+               <item>† <hi>Henry de Neſmond</hi> nominated Biſhop of <hi>Montauban.</hi>
+               </item>
+               <item>† <hi>Pierre Fr. de Beauvan</hi> nominated Biſhop of <hi>Sarlat.</hi>
+               </item>
+            </list>
+            <closer>
+               <signed>By the ſaid Lords, <hi>The Abbot</hi> de Villars <hi>Agent General of the Clergy of</hi> France, <hi>and Secretary of the Aſſembly.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:100877:7"/>
+            <!-- PDF PAGE 127 -->
+         </div>
+      </body>
+   </text>
+</TEI>
